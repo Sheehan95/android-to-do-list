@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/Alan/Desktop/Project/android-todo-list-master1/androidtodolistmaster/src/main/res/values-ar/strings.xml -->
+    <eat-comment/>
+    <string name="add">إضافة</string>
+    <string name="add_item">إضافة عنصر</string>
+    <string name="add_list">إضافة قائمة</string>
+    <string name="add_note">اضف ملاحظة</string>
+    <string name="back">إلى الوراء</string>
+    <string name="cancel">إلغاء</string>
+    <string name="content">مضمون</string>
+    <string name="decode_failure">لا يمكن فك شفرة الاستجابة</string>
+    <string name="delete">حذف</string>
+    <string name="delete_confirmation">هل أنت متأكد أنك تريد حذف هذا البند ؟</string>
+    <string name="edit">تحرير</string>
+    <string name="edit_list">قائمة تحرير</string>
+    <string name="edit_note">تحرير ملاحظة</string>
+    <string name="fatal_error">حدث خطأ في قاعدة البيانات قاتلة</string>
+    <string name="hint">إنشاء جديد ملاحظة / قائمة أو عرض قائمة واحدة</string>
+    <string name="http_error">خطأ HTTP </string>
+    <string name="link_to_notes">اضغط هنا للحصول على رابط إلى ملاحظاتك</string>
+    <string name="list">قائمة</string>
+    <string name="no_items_found">لم يتم العثور على العناصر، انقر فوق إضافة عنصر إلى إنشاء عنصر جديد</string>
+    <string name="no_name">{بدون اسم}</string>
+    <string name="ok">حسنا</string>
+    <string name="simple_note">ملاحظة بسيطة</string>
+    <string name="sync_failed">فشل التزامن</string>
+    <string name="sync_success">التزامن الناجح</string>
+    <string name="synchronise">مزامنة</string>
+    <string name="synchronise_toast">سيتم إعلامك عند اكتمال التزامن</string>
+    <string name="title">لقب</string>
+    <string name="to_do_list">القيام قائمة التطبيق</string>
+    <string name="to_do_sync_failed">التزامن من قائمة المهام الفاشلة</string>
+    <string name="to_do_sync_success">إلى قائمة المهام متزامنة بنجاح</string>
+    <string name="type_note">حدد نوع الملاحظة التي ترغب في إنشاء</string>
+    <string name="view">رأي</string>
+</resources>

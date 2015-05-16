@@ -1,0 +1,6 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/menu_view" android:orderInCategory="1" android:title="@string/view"></item>
+    <item android:id="@+id/menu_edit" android:orderInCategory="2" android:title="@string/edit"></item>
+    <item android:id="@+id/menu_delete" android:orderInCategory="3" android:title="@string/delete"></item>
+    <item android:id="@+id/menu_cancel" android:orderInCategory="4" android:title="@string/cancel"></item>
+</menu><!-- From: file:/C:/Users/Alan/Desktop/Project/android-todo-list-master1/androidtodolistmaster/src/main/res/menu/context_main.xml -->

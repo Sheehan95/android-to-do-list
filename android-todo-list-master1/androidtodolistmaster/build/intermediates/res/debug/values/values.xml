@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/Alan/Desktop/Project/android-todo-list-master1/androidtodolistmaster/src/main/res/values/colors.xml -->
+    <eat-comment/>
+    <color name="alt_background">#DDDDDD</color>
+    <!-- From: file:/C:/Users/Alan/Desktop/Project/android-todo-list-master1/androidtodolistmaster/src/main/res/values/id.xml -->
+    <eat-comment/>
+    <item name="data_list" type="id"/>
+    <!-- From: file:/C:/Users/Alan/Desktop/Project/android-todo-list-master1/androidtodolistmaster/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="add">Add</string>
+    <string name="add_item">Add Item</string>
+    <string name="add_list">Add List</string>
+    <string name="add_note">Add Note</string>
+    <string name="back">Back</string>
+    <string name="cancel">Cancel</string>
+    <string name="content">Content</string>
+    <string name="decode_failure">Can\'t decode response</string>
+    <string name="delete">Delete</string>
+    <string name="delete_confirmation">Are you sure you want to delete this item?</string>
+    <string name="edit">Edit</string>
+    <string name="edit_list">Edit List</string>
+    <string name="edit_note">Edit Note</string>
+    <string name="fatal_error">A fatal database error has occurred</string>
+    <string name="hint">Create a new Note/List or view an existing one</string>
+    <string name="http_error">HTTP error </string>
+    <string name="link_to_notes">Tap here to get the link to your notes</string>
+    <string name="list">List</string>
+    <string name="no_items_found">No Items found, click \"Add Item\" to create a new item</string>
+    <string name="no_name">{No name}</string>
+    <string name="ok">OK</string>
+    <string name="simple_note">Simple Note</string>
+    <string name="sync_failed">Synchronisation Failed</string>
+    <string name="sync_success">Synchronisation Successful</string>
+    <string name="synchronise">Synchronise</string>
+    <string name="synchronise_toast">You will be notified when the synchronisation has completed</string>
+    <string name="title">Title</string>
+    <string name="to_do_list">To Do List App</string>
+    <string name="to_do_sync_failed">Synchronisation of \'To Do List\' failed</string>
+    <string name="to_do_sync_success">\'To Do List\' successfully synchronised</string>
+    <string name="type_note">Select the type of note you wish to create</string>
+    <string name="view">View</string>
+</resources>

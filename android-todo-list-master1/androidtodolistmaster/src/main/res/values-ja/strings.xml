@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Common Resources -->
+    <string name="to_do_list">リストアプリを実行するには</string>
+
+    <string name="ok">はい</string>
+    <string name="cancel">キャンセル</string>
+
+    <string name="back">バック</string>
+
+    <string name="add">加える</string>
+    <string name="edit">編集</string>
+    <string name="delete">削除</string>
+    <string name="view">ビュー</string>
+
+    <string name="title">タイトル</string>
+    <string name="content">コンテンツ</string>
+
+    <string name="delete_confirmation">あなたはこの項目を削除してもよろしいていますか？</string>
+
+    <string name="hint">新しいメモ/リストを作成するか、既存のものを表示</string>
+
+
+
+    <!-- Activity Add -->
+    <string name="add_note">メモの追加</string>
+    <string name="simple_note">シンプルなノート</string>
+    <string name="list">リスト</string>
+    <string name="type_note">あなたが作成したいノートの種類を選択</string>
+
+
+
+    <!-- Activity Edit List -->
+    <string name="add_list">リストを追加</string>
+    <string name="no_items_found">見つかりませんでしたアイテムは、新しいアイテムを作成するために項目の追加]をクリックしない</string>
+    <string name="add_item">アイテムの追加</string>
+
+
+
+    <!-- Activity Edit Note -->
+    <string name="edit_note">編集メモ</string>
+    <string name="edit_list">編集リスト</string>
+
+
+
+    <!-- Activity Main -->
+    <string name="synchronise">同期する</string>
+    <string name="synchronise_toast">同期が完了したときには、ユーザに通知されます</string>
+    <string name="fatal_error">致命的なデータベースエラーが発生しました</string>
+    <string name="no_name">{ノーネーム}</string>
+
+    
+
+    <!-- Synchronisation -->
+    <string name="sync_success">成功した同期</string>
+    <string name="sync_failed">同期は失敗しました</string>
+
+    <string name="to_do_sync_success">リストを行うために正常に同期</string>
+    <string name="to_do_sync_failed">の同期は、リストが失敗したかには、</string>
+
+    <string name="link_to_notes">あなたのノートへのリンクを取得するにはここをタップ</string>
+
+    <string name="decode_failure">応答をデコードすることはできません</string>
+    <string name="http_error">HTTPエラー </string>
+
+</resources>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Common Resources -->
+    <string name="to_do_list">To Do List App</string>
+
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="back">Back</string>
+
+    <string name="add">Add</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="view">View</string>
+
+    <string name="title">Title</string>
+    <string name="content">Content</string>
+
+    <string name="delete_confirmation">Are you sure you want to delete this item?</string>
+
+    <string name="hint">Create a new Note/List or view an existing one</string>
+
+
+
+    <!-- Activity Add -->
+    <string name="add_note">Add Note</string>
+    <string name="simple_note">Simple Note</string>
+    <string name="list">List</string>
+    <string name="type_note">Select the type of note you wish to create</string>
+
+
+
+    <!-- Activity Edit List -->
+    <string name="add_list">Add List</string>
+    <string name="no_items_found">No Items found, click \&quot;Add Item\&quot; to create a new item</string>
+    <string name="add_item">Add Item</string>
+
+
+
+    <!-- Activity Edit Note -->
+    <string name="edit_note">Edit Note</string>
+    <string name="edit_list">Edit List</string>
+
+
+
+    <!-- Activity Main -->
+    <string name="synchronise">Synchronise</string>
+    <string name="synchronise_toast">You will be notified when the synchronisation has completed</string>
+    <string name="fatal_error">A fatal database error has occurred</string>
+    <string name="no_name">{No name}</string>
+
+
+
+    <!-- Synchronisation -->
+    <string name="sync_success">Synchronisation Successful</string>
+    <string name="sync_failed">Synchronisation Failed</string>
+
+    <string name="to_do_sync_success">\&apos;To Do List\&apos; successfully synchronised</string>
+    <string name="to_do_sync_failed">Synchronisation of \&apos;To Do List\&apos; failed</string>
+
+    <string name="link_to_notes">Tap here to get the link to your notes</string>
+
+    <string name="decode_failure">Can\&apos;t decode response</string>
+    <string name="http_error">HTTP error </string>
+
+</resources>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Common Resources -->
+    <string name="to_do_list">список дел приложения</string>
+
+    <string name="ok">хорошо</string>
+    <string name="cancel">отменить</string>
+
+    <string name="back">назад</string>
+
+    <string name="add">добавлять</string>
+    <string name="edit">редактировать</string>
+    <string name="delete">удалять</string>
+    <string name="view">вид</string>
+
+    <string name="title">название</string>
+    <string name="content">содержание</string>
+
+    <string name="delete_confirmation">Вы уверены, что хотите удалить этот пункт ?</string>
+
+    <string name="hint">Создать новое примечание / Список или просмотра существующего</string>
+
+
+
+    <!-- Activity Add -->
+    <string name="add_note">Добавить Заметку</string>
+    <string name="simple_note">Простой Примечание</string>
+    <string name="list">список</string>
+    <string name="type_note">Выберите тип примечания , который вы хотите создать</string>
+
+
+
+    <!-- Activity Edit List -->
+    <string name="add_list">Добавить список</string>
+    <string name="no_items_found">Товаров не найдено , щелкните Добавить элемент , чтобы создать новый элемент</string>
+    <string name="add_item">Добавить элемент</string>
+
+
+
+    <!-- Activity Edit Note -->
+    <string name="edit_note">Редактировать Примечание</string>
+    <string name="edit_list">Изменить список</string>
+
+
+
+    <!-- Activity Main -->
+    <string name="synchronise">Синхронизация</string>
+    <string name="synchronise_toast">Вы будете уведомлены, когдасинхронизация завершена</string>
+    <string name="fatal_error">Фатальная ошибка базы данных произошла</string>
+    <string name="no_name">{Без имени}</string>
+
+    
+
+    <!-- Synchronisation -->
+    <string name="sync_success">Синхронизация Успешная</string>
+    <string name="sync_failed">Синхронизация удалось</string>
+
+    <string name="to_do_sync_success">список дел успешно синхронизировано</string>
+    <string name="to_do_sync_failed">Синхронизация список дел не удалось</string>
+
+    <string name="link_to_notes">Нажмите здесь, чтобы получить ссылку на ваши заметки</string>
+
+    <string name="decode_failure">Невозможно декодировать ответ</string>
+    <string name="http_error">ошибка HTTP </string>
+
+</resources>

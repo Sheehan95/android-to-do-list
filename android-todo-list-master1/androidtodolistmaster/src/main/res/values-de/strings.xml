@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Common Resources -->
+    <string name="to_do_list">To-Do-Liste App</string>
+
+    <string name="ok">Ordnung</string>
+    <string name="cancel">Stornieren</string>
+
+    <string name="back">Zurück</string>
+
+    <string name="add">Hinzufügen</string>
+    <string name="edit">Bearbeiten</string>
+    <string name="delete">Löschen</string>
+    <string name="view">Ansicht</string>
+
+    <string name="title">Titel</string>
+    <string name="content">Inhalt</string>
+
+    <string name="delete_confirmation">Sind Sie sicher, Sie wollen diesen Inhalt löschen ?</string>
+
+    <string name="hint">Erstellen Sie eine neue Anmerkung / Liste oder sehen Sie eine vorhandene</string>
+
+
+
+    <!-- Activity Add -->
+    <string name="add_note">Notiz Hinzufügen</string>
+    <string name="simple_note">Einfache Hinweis</string>
+    <string name="list">Liste</string>
+    <string name="type_note">Wählen Sie den Typ der Notiz, die Sie erstellen möchten</string>
+
+
+
+    <!-- Activity Edit List -->
+    <string name="add_list">Liste Hinzufügen</string>
+    <string name="no_items_found">Keine Einträge gefunden, klicken Sie auf \&quot;Element hinzufügen\&quot;, um ein neues Element zu erstellen</string>
+    <string name="add_item">Element Hinzufügen</string>
+
+
+
+    <!-- Activity Edit Note -->
+    <string name="edit_note">Notiz Bearbeiten</string>
+    <string name="edit_list">Liste Bearbeiten</string>
+
+
+
+    <!-- Activity Main -->
+    <string name="synchronise">Synchronisieren</string>
+    <string name="synchronise_toast">Sie werden benachrichtigt, wenn die Synchronisation abgeschlossen sein</string>
+    <string name="fatal_error">Ein schwerwiegender Datenbankfehler ist aufgetreten</string>
+    <string name="no_name">{Kein Name}</string>
+
+    
+
+    <!-- Synchronisation -->
+    <string name="sync_success">Erfolgreiche Synchronisation</string>
+    <string name="sync_failed">Synchronisation Fehlgeschlagen</string>
+
+    <string name="to_do_sync_success">\&apos;To-Do-Liste\&apos; erfolgreich synchronisiert</string>
+    <string name="to_do_sync_failed">Synchronisation of \&apos;To-Do-Liste\&apos; gescheitert</string>
+
+    <string name="link_to_notes">Tippen Sie hier, um den Link zu Ihrer Notizen erhalten</string>
+
+    <string name="decode_failure">Nicht decodieren kann antwort</string>
+    <string name="http_error">HTTP-Fehler </string>
+
+</resources>
